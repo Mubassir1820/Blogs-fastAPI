@@ -1,4 +1,4 @@
-# 📝 Blog API - FastAPI Project 🚀
+# 📝 Blogs - FastAPI 🚀
 A FastAPI-based Blog API that allows users to create, read, update, and delete (CRUD) blog posts. The project includes User authentication and is built using SQLAlchemy, PostgreSQL, and Pydantic for data validation.
 
 ## 📌 Features
